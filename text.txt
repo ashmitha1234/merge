@@ -1,10 +1,17 @@
 Amity University
 Bengaluru
+
 Courses offered:
-BTech
-BSc
-BA
-BCA
-BBA
+Bachelor of Technology 
+Bachelor of Science
+Bachelor of Arts
+Bachelor of Computer Applications
+Bachelor of Business Administration
 Fashion Designing
 
+Facilities available:
+Transport
+Hostel
+Gym 
+Indoor games
+Outdoor games
